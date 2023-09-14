@@ -1,14 +1,17 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*89wcP4LUhvVPUJXpQ-vWeA.png)](https://developerscareer.tech/)
+<p align="center">
+  <a href="https://developerscareer.tech/">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*89wcP4LUhvVPUJXpQ-vWeA.png" width="600" height="200">
+  </a>
+</p>
 <h1 align="center">Hi 👋, I'm Kumar Gaurav</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaumis&label=Profile%20views&color=0e75b6&style=flat" alt="gaumis" /> </p>
 
 - 🔭 I’m currently working on **DevelopersCareer**
-
 - 🌱 I’m currently learning **Django**
-
 - 💬 Ask me about **Flask, Python**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
